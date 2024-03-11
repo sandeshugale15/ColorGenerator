@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+   
+   
+   
+  
+}
+div{
+    border:1px solid #050505;
+    margin: auto;
+    height: 180px;
+    width: 600px;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 100px;
+}
+h2{
+    margin-top: 50px;
+}
+button{
+    /* margin-top: 60px; */
+    padding: auto;
+    border-radius: 20px;
+    height: 30px;
+    width: 170px;
+}
